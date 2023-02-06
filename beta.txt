@@ -1,6 +1,13 @@
+]
+
+<<<<<<< HEAD
 this is beta file.
 
 Changess.
 
 
 xhg
+=======
+this is beta file
+CHHHHH
+>>>>>>> bd71ac5 (hellooo2)
